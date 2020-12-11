@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/c1p6jlldarjkvi3x?svg=true)](https://ci.appveyor.com/project/abatsakidis/googlemap-in-winforms)
+
 ## Description ##
 
 Embed and display Google Maps in your .NET application<br>
